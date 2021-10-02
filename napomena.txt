@@ -1,0 +1,2 @@
+1.) potrebna instalacija Qt
+2.) potreban C:\Qt\6.2.0\mingw81_64\bin path u Edit System Variables
