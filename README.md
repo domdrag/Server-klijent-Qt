@@ -1,3 +1,5 @@
+# Pokretanje aplikacije - Server.lnk + Client.lnk
+
 **Zadatak.**
 Potrebno je napraviti klijent-server aplikaciju za izmjenu tekstualni poruka.
 
