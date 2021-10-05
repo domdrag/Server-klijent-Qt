@@ -1,5 +1,3 @@
-# Pokretanje aplikacije - Server.lnk + Client.lnk
-
 **Zadatak.**
 Potrebno je napraviti klijent-server aplikaciju za izmjenu tekstualnih poruka.
 
@@ -96,5 +94,8 @@ Kada se klijent ne uspije spojiti to mora logirati. Na primjer:
 ![klijent-5](./doc/klijent-5.png)
 
 
-Sve detalje aplikacije koji ovdje eventualno nisu spomenuti dopunite sami.
+# Pokretanje servera - build_server/release/server.exe
+# Pokretanje klijenta - build_client/release/klijent.exe
+
+
 
